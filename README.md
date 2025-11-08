@@ -42,7 +42,7 @@
 ## 📊 Current Status
 
 ```
-STATUS: 🟠 MAINTENANCE
+STATUS: 🟢 BETA
 DETECTION: 0/72 ⚡️ (VirusTotal)
 ```
 
