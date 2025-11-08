@@ -1,4 +1,4 @@
-![image](https://raw.githubusercontent.com/H4SH-STEALER/H4SH-STEALER/refs/heads/main/h4shontop.png)
+![image](https://github.com/H4SH-STEALER/H4SH-STEALER/blob/main/h4shontop.jpg)
 
 
 <div align="center">
